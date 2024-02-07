@@ -4,12 +4,12 @@
 ---
 ## Technology in use
 
-Javascript,GIT
+Javascript,GIT, CSS
 
 ---
 ## Description
 This is the completed code generator, implementing javascript to make the provided HTML and CSS correspond alltogether.
-[visit the deployed site]()
+[visit the deployed site](https://github.com/bswagy/code-generator)
 
 ![Alt text](<Screenshot 2024-02-06 at 12.38.48 PM.png>)
 
@@ -18,7 +18,7 @@ This is the completed code generator, implementing javascript to make the provid
  used Javascript to make the provided code work when a user chooses the selected character sets.
 * learned how to generate a button for users to click
 * learned how to make window prompts show up to ask the user a yes or no question
-* learned how to catcanate user choices to make a random password
+* learned how to concatenate user choices to make a random password
 
 
 ## Author Information
