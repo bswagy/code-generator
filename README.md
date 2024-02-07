@@ -9,7 +9,7 @@ Javascript,GIT, CSS
 ---
 ## Description
 This is the completed code generator, implementing javascript to make the provided HTML and CSS correspond alltogether.
-[visit the deployed site](https://github.com/bswagy/code-generator)
+[visit the deployed site](https://bswagy.github.io/code-generator/)
 
 ![Alt text](<Screenshot 2024-02-06 at 12.38.48 PM.png>)
 
